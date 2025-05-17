@@ -1,4 +1,4 @@
-
+// ex 1.1 and ex 1.2
 const Header = ({ course }) => <h1>{course}</h1>
 
 const Part = ({ part, exercises }) => (
